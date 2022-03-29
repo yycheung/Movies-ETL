@@ -42,3 +42,7 @@ Deliverable 4: Create the Movie Database
 
 ### Deliverable 4: Create the Movie Database
 
+![](Resources/d4_1.png)
+![](Resources/d4_2.png)
+![](Resources/movies_query.png)
+![](Resources/ratings_query.png)
